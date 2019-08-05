@@ -1,3 +1,5 @@
-<b>Simple Text Editor</b>
+# win-forms-text-editor
 
-![Text editor image](https://user-images.githubusercontent.com/22356170/62486666-930dad00-b7c8-11e9-8945-752066503fd9.png)
+Simple Text Editor
+
+![Text editor image](https://user-images.githubusercontent.com/22356170/62490349-c0ab2400-b7d1-11e9-9679-2c31f7c6cb92.png)
